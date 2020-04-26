@@ -1,2 +1,2 @@
 # Face-Recognition-using-Siamese-Networks
-Implementing a Siamese network to recognize faces from very few training and test data. Can be used for various other applications with a small dataset like signature verification etc. 
+This project aims to perform reliable facial recognition using minimal training data. An example of few-shot learning, this algorithm is able to distinguish between faces by using a dataset having only 10 instances of each face. This project uses Siamese networks to compute the similarity between 2 facial images and classify them accordingly. The algorithm implemented can be easily extended to many real world use cases like signature verification, text similarity with only minimal data points.
